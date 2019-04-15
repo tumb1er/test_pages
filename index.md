@@ -1,6 +1,6 @@
 New website test
 ================
 
-* [ ] Markdown
-* [ ] Menu
+* [News](/news/)
+* [Schedule](/schedule/)
 
