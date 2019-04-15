@@ -1,8 +1,8 @@
 - title: "Home"
-  href: "/"
+  href: "/test_pages/"
 
 - title: "News"
-  href: "news/"
+  href: "/test_pages/news/"
 
 - title: "Schedule"
-  href: "schedule/"
+  href: "/test_pages/schedule/"
