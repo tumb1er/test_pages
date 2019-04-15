@@ -1,5 +1,6 @@
-News
-====
+---
+title: Latest news
+---
 
 ### 15.04.2019 What a beautiful day
 
