@@ -1,3 +1,3 @@
-* [News](/news/)
-* [Schedule](/schedule/)
+* [News](news/)
+* [Schedule](schedule/)
 
